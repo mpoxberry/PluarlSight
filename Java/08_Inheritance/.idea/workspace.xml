@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="709af982-a5c1-45f1-9d62-f9c46ea44be9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../07_Parameters/Demo/CalcEngine/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../07_Parameters/Demo/CalcEngine/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="709af982-a5c1-45f1-9d62-f9c46ea44be9" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,7 +33,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Demo/CalcEngine/src/com/pluralsight/calcengine/CaclulateBase.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="680">
@@ -58,6 +56,19 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Demo/CalcEngine/src/com/pluralsight/calcengine/Adder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+              <folding>
+                <element signature="e#153#154#0" expanded="true" />
+                <element signature="e#174#175#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -74,6 +85,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Demo/CalcEngine/src/com/pluralsight/calcengine/CaclulateBase.java" />
+        <option value="$PROJECT_DIR$/Demo/CalcEngine/src/com/pluralsight/calcengine/Adder.java" />
       </list>
     </option>
   </component>
@@ -126,6 +138,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -215,6 +228,17 @@
             <element signature="e#528#529#0" expanded="true" />
             <element signature="e#580#581#0" expanded="true" />
             <element signature="e#615#616#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo/CalcEngine/src/com/pluralsight/calcengine/Adder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+          <folding>
+            <element signature="e#153#154#0" expanded="true" />
+            <element signature="e#174#175#0" expanded="true" />
           </folding>
         </state>
       </provider>
