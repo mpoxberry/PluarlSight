@@ -1,6 +1,6 @@
 package com.pluralsight.calcengine;
 
-public abstract class CaclulateBase {
+public abstract class CalculateBase {
     private double leftVal;
     private double rightVal;
     private double result;
@@ -29,9 +29,9 @@ public abstract class CaclulateBase {
         this.result = result;
     }
 
-    public CaclulateBase() {}
+    public CalculateBase() {}
 
-    public CaclulateBase(double leftVal, double rightVal) {
+    public CalculateBase(double leftVal, double rightVal) {
         this.leftVal = leftVal;
         this.rightVal = rightVal;
     }
