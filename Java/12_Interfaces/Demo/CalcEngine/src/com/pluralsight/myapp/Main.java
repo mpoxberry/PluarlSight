@@ -15,7 +15,19 @@ public class Main {
     public static void main(String[] args) {
         //useMathEquation();
         //useCalculatorBase();
+        // useCalculateHelper();
 
+        String[] statements = {
+                "add 25.0 92.0",        // 25.0 + 92.0 = 117.0
+        };
+
+        for(String statement: statements) {
+            
+        }
+
+    }
+
+    static void useCalculateHelper() {
         String[] statements = {
                 "add 1.0",              // Error: incorrect number of values
                 "add xx 25.0",          // Error: non-numeric data
