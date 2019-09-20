@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c52f19df-0916-4d01-abe5-8048513951b3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../../._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../02_CreateApp/Demo/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../02_CreateApp/Demo/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../02_CreateApp/Demo/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../02_CreateApp/Demo/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../02_CreateApp/Demo/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../02_CreateApp/Demo/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../02_CreateApp/Demo/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../02_CreateApp/Demo/HelloWorld/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../02_CreateApp/Demo/HelloWorld/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../02_CreateApp/Demo/HelloWorld/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../02_CreateApp/Demo/HelloWorld/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../02_CreateApp/Demo/HelloWorld/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../02_CreateApp/Demo/HelloWorld/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../02_CreateApp/Demo/HelloWorld/HelloWorld.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../02_CreateApp/Demo/HelloWorld/out/production/HelloWorld/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../02_CreateApp/Demo/HelloWorld/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../02_CreateApp/Demo/organized/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../02_CreateApp/Demo/organized/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../02_CreateApp/Demo/organized/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../02_CreateApp/Demo/organized/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../02_CreateApp/Demo/organized/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../02_CreateApp/Demo/organized/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../02_CreateApp/Demo/organized/organized.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../02_CreateApp/Demo/organized/out/production/organized/com/pluralsight/getorganized/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../02_CreateApp/Demo/organized/src/com/pluralsight/getorganized/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../03_DataTypesEtc/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../03_DataTypesEtc/Demo/MathOrder/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../03_DataTypesEtc/Demo/MathOrder/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../03_DataTypesEtc/Demo/MathOrder/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../03_DataTypesEtc/Demo/MathOrder/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../03_DataTypesEtc/Demo/MathOrder/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../03_DataTypesEtc/Demo/MathOrder/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../03_DataTypesEtc/Demo/MathOrder/MathOrder.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../03_DataTypesEtc/Demo/MathOrder/out/production/MathOrder/com/pluralsight/mathorder/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../03_DataTypesEtc/Demo/MathOrder/src/com/pluralsight/mathorder/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../03_DataTypesEtc/Demo/TypeConversion/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../03_DataTypesEtc/Demo/TypeConversion/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../03_DataTypesEtc/Demo/TypeConversion/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../03_DataTypesEtc/Demo/TypeConversion/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../03_DataTypesEtc/Demo/TypeConversion/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../03_DataTypesEtc/Demo/TypeConversion/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../03_DataTypesEtc/Demo/TypeConversion/TypeConversion.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../03_DataTypesEtc/Demo/TypeConversion/out/production/TypeConversion/com/pluralsight/typeconversion/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../03_DataTypesEtc/Demo/TypeConversion/src/com/pluralsight/typeconversion/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../04_ControlFlowEtc/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../04_ControlFlowEtc/.idea/04_ControlFlowEtc.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../04_ControlFlowEtc/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../04_ControlFlowEtc/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../04_ControlFlowEtc/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../04_ControlFlowEtc/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../04_ControlFlowEtc/Demo/CalcEngine/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../04_ControlFlowEtc/Demo/CalcEngine/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../04_ControlFlowEtc/Demo/CalcEngine/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../04_ControlFlowEtc/Demo/CalcEngine/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../04_ControlFlowEtc/Demo/CalcEngine/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../04_ControlFlowEtc/Demo/CalcEngine/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../04_ControlFlowEtc/Demo/CalcEngine/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../04_ControlFlowEtc/Demo/CalcEngine/CalcEngine.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../04_ControlFlowEtc/Demo/CalcEngine/out/production/CalcEngine/com/pluralsight/calcengine/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../04_ControlFlowEtc/Demo/CalcEngine/out/production/CalcEngine/com/pluralsight/calcengine/MathEquation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../04_ControlFlowEtc/Demo/CalcEngine/src/com/pluralsight/calcengine/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../04_ControlFlowEtc/Demo/CalcEngine/src/com/pluralsight/calcengine/MathEquation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../04_ControlFlowEtc/Demo/LetsGetLogical/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../04_ControlFlowEtc/Demo/LetsGetLogical/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../04_ControlFlowEtc/Demo/LetsGetLogical/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../04_ControlFlowEtc/Demo/LetsGetLogical/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../04_ControlFlowEtc/Demo/LetsGetLogical/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../04_ControlFlowEtc/Demo/LetsGetLogical/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../04_ControlFlowEtc/Demo/LetsGetLogical/LetsGetLogical.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../04_ControlFlowEtc/Demo/LetsGetLogical/out/production/LetsGetLogical/com/pluralsight/letsgetlogical/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../04_ControlFlowEtc/Demo/LetsGetLogical/src/com/pluralsight/letsgetlogical/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../04_ControlFlowEtc/Demo/NestedIfs/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../04_ControlFlowEtc/Demo/NestedIfs/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../04_ControlFlowEtc/Demo/NestedIfs/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../04_ControlFlowEtc/Demo/NestedIfs/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../04_ControlFlowEtc/Demo/NestedIfs/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../04_ControlFlowEtc/Demo/NestedIfs/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../04_ControlFlowEtc/Demo/NestedIfs/NestedIfs.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../04_ControlFlowEtc/Demo/NestedIfs/out/production/NestedIfs/com/pluralsight/nestedifs/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../04_ControlFlowEtc/Demo/NestedIfs/src/com/pluralsight/nestedifs/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../07_Parameters/Demo/CalcEngine/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../07_Parameters/Demo/CalcEngine/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../07_Parameters/Demo/CalcEngine/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../07_Parameters/Demo/CalcEngine/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../07_Parameters/Demo/CalcEngine/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../07_Parameters/Demo/CalcEngine/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../07_Parameters/Demo/CalcEngine/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../07_Parameters/Demo/CalcEngine/Demo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../07_Parameters/Demo/CalcEngine/src/com/pluralsight/calcengine/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../07_Parameters/Demo/CalcEngine/src/com/pluralsight/calcengine/MathEquation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../08_Inheritance/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../08_Inheritance/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../08_Inheritance/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../08_Inheritance/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../08_Inheritance/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../08_Inheritance/Demo/CalcEngine/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../08_Inheritance/Demo/CalcEngine/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../08_Inheritance/Demo/CalcEngine/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../08_Inheritance/Demo/CalcEngine/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../08_Inheritance/Demo/CalcEngine/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../08_Inheritance/Demo/CalcEngine/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../08_Inheritance/Demo/CalcEngine/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../08_Inheritance/Demo/CalcEngine/CalcEngine.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../08_Inheritance/Demo/CalcEngine/Demo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../08_Inheritance/Demo/CalcEngine/src/com/pluralsight/calcengine/Adder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../08_Inheritance/Demo/CalcEngine/src/com/pluralsight/calcengine/CalculateBase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../08_Inheritance/Demo/CalcEngine/src/com/pluralsight/calcengine/Divider.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../08_Inheritance/Demo/CalcEngine/src/com/pluralsight/calcengine/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../08_Inheritance/Demo/CalcEngine/src/com/pluralsight/calcengine/MathEquation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../08_Inheritance/Demo/CalcEngine/src/com/pluralsight/calcengine/Multiplier.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../08_Inheritance/Demo/CalcEngine/src/com/pluralsight/calcengine/Subtracter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../09_DataTypesDeeper/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../09_DataTypesDeeper/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../09_DataTypesDeeper/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../09_DataTypesDeeper/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../09_DataTypesDeeper/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../09_DataTypesDeeper/Demo/CalcEngine/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../09_DataTypesDeeper/Demo/CalcEngine/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../09_DataTypesDeeper/Demo/CalcEngine/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../09_DataTypesDeeper/Demo/CalcEngine/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../09_DataTypesDeeper/Demo/CalcEngine/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../09_DataTypesDeeper/Demo/CalcEngine/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../09_DataTypesDeeper/Demo/CalcEngine/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../09_DataTypesDeeper/Demo/CalcEngine/CalcEngine.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../09_DataTypesDeeper/Demo/CalcEngine/Demo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../09_DataTypesDeeper/Demo/CalcEngine/src/com/pluralsight/calcengine/Adder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../09_DataTypesDeeper/Demo/CalcEngine/src/com/pluralsight/calcengine/CalculateBase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../09_DataTypesDeeper/Demo/CalcEngine/src/com/pluralsight/calcengine/CalculateHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../09_DataTypesDeeper/Demo/CalcEngine/src/com/pluralsight/calcengine/Divider.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../09_DataTypesDeeper/Demo/CalcEngine/src/com/pluralsight/calcengine/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../09_DataTypesDeeper/Demo/CalcEngine/src/com/pluralsight/calcengine/MathCommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../09_DataTypesDeeper/Demo/CalcEngine/src/com/pluralsight/calcengine/MathEquation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../09_DataTypesDeeper/Demo/CalcEngine/src/com/pluralsight/calcengine/Multiplier.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../09_DataTypesDeeper/Demo/CalcEngine/src/com/pluralsight/calcengine/Subtracter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../10_Exceptions/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../10_Exceptions/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../10_Exceptions/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../10_Exceptions/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../10_Exceptions/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../10_Exceptions/Demo/CalcEngine/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../10_Exceptions/Demo/CalcEngine/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../10_Exceptions/Demo/CalcEngine/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../10_Exceptions/Demo/CalcEngine/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../10_Exceptions/Demo/CalcEngine/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../10_Exceptions/Demo/CalcEngine/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../10_Exceptions/Demo/CalcEngine/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../10_Exceptions/Demo/CalcEngine/CalcEngine.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../10_Exceptions/Demo/CalcEngine/Demo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../10_Exceptions/Demo/CalcEngine/src/com/pluralsight/calcengine/Adder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../10_Exceptions/Demo/CalcEngine/src/com/pluralsight/calcengine/CalculateBase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../10_Exceptions/Demo/CalcEngine/src/com/pluralsight/calcengine/CalculateHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../10_Exceptions/Demo/CalcEngine/src/com/pluralsight/calcengine/Divider.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../10_Exceptions/Demo/CalcEngine/src/com/pluralsight/calcengine/InvalidStatementException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../10_Exceptions/Demo/CalcEngine/src/com/pluralsight/calcengine/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../10_Exceptions/Demo/CalcEngine/src/com/pluralsight/calcengine/MathCommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../10_Exceptions/Demo/CalcEngine/src/com/pluralsight/calcengine/MathEquation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../10_Exceptions/Demo/CalcEngine/src/com/pluralsight/calcengine/Multiplier.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../10_Exceptions/Demo/CalcEngine/src/com/pluralsight/calcengine/Subtracter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../11_Packages/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../11_Packages/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../11_Packages/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../11_Packages/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../11_Packages/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../11_Packages/Demo/CalcEngine/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../11_Packages/Demo/CalcEngine/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../11_Packages/Demo/CalcEngine/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../11_Packages/Demo/CalcEngine/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../11_Packages/Demo/CalcEngine/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../11_Packages/Demo/CalcEngine/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../11_Packages/Demo/CalcEngine/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../11_Packages/Demo/CalcEngine/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../11_Packages/Demo/CalcEngine/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../11_Packages/Demo/CalcEngine/CalcEngine.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../11_Packages/Demo/CalcEngine/Demo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../11_Packages/Demo/CalcEngine/src/com/pluralsight/calcengine/Adder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../11_Packages/Demo/CalcEngine/src/com/pluralsight/calcengine/CalculateBase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../11_Packages/Demo/CalcEngine/src/com/pluralsight/calcengine/CalculateHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../11_Packages/Demo/CalcEngine/src/com/pluralsight/calcengine/Divider.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../11_Packages/Demo/CalcEngine/src/com/pluralsight/calcengine/InvalidStatementException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../11_Packages/Demo/CalcEngine/src/com/pluralsight/calcengine/MathCommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../11_Packages/Demo/CalcEngine/src/com/pluralsight/calcengine/MathEquation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../11_Packages/Demo/CalcEngine/src/com/pluralsight/calcengine/Multiplier.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../11_Packages/Demo/CalcEngine/src/com/pluralsight/calcengine/Subtracter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../11_Packages/Demo/CalcEngine/src/com/pluralsight/myapp/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../12_Interfaces/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../12_Interfaces/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../12_Interfaces/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../12_Interfaces/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../12_Interfaces/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../12_Interfaces/Demo/CalcEngine/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../12_Interfaces/Demo/CalcEngine/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../12_Interfaces/Demo/CalcEngine/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../12_Interfaces/Demo/CalcEngine/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../12_Interfaces/Demo/CalcEngine/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../12_Interfaces/Demo/CalcEngine/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../12_Interfaces/Demo/CalcEngine/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../12_Interfaces/Demo/CalcEngine/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../12_Interfaces/Demo/CalcEngine/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../12_Interfaces/Demo/CalcEngine/CalcEngine.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../12_Interfaces/Demo/CalcEngine/Demo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../12_Interfaces/Demo/CalcEngine/src/com/pluralsight/calcengine/Adder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../12_Interfaces/Demo/CalcEngine/src/com/pluralsight/calcengine/CalculateBase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../12_Interfaces/Demo/CalcEngine/src/com/pluralsight/calcengine/CalculateHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../12_Interfaces/Demo/CalcEngine/src/com/pluralsight/calcengine/Divider.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../12_Interfaces/Demo/CalcEngine/src/com/pluralsight/calcengine/DynamicHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../12_Interfaces/Demo/CalcEngine/src/com/pluralsight/calcengine/InvalidStatementException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../12_Interfaces/Demo/CalcEngine/src/com/pluralsight/calcengine/MathCommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../12_Interfaces/Demo/CalcEngine/src/com/pluralsight/calcengine/MathEquation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../12_Interfaces/Demo/CalcEngine/src/com/pluralsight/calcengine/MathProcessing.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../12_Interfaces/Demo/CalcEngine/src/com/pluralsight/calcengine/Multiplier.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../12_Interfaces/Demo/CalcEngine/src/com/pluralsight/calcengine/PowerOf.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../12_Interfaces/Demo/CalcEngine/src/com/pluralsight/calcengine/Subtracter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../12_Interfaces/Demo/CalcEngine/src/com/pluralsight/myapp/Main.java" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/mpo/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="29" column="64" lean-forward="true" selection-start-line="29" selection-start-column="64" selection-end-line="29" selection-end-column="64" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/mpo/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/encodings.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-1309" />
+    <option name="y" value="311" />
+    <option name="width" value="1440" />
+    <option name="height" value="788" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.mpo.Main" />
+      <module name="Demo" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c52f19df-0916-4d01-abe5-8048513951b3" name="Default Changelist" comment="" />
+      <created>1568982325269</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568982325269</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1928" y="-8" width="1936" height="1066" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/mpo/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="64" lean-forward="true" selection-start-line="29" selection-start-column="64" selection-end-line="29" selection-end-column="64" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
