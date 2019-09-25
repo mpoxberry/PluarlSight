@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c52f19df-0916-4d01-abe5-8048513951b3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/com/mpo/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mpo/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mpo/MyAutoCloseable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mpo/MyAutoCloseable.java" afterDir="false" />
-    </list>
+    <list default="true" id="c52f19df-0916-4d01-abe5-8048513951b3" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,7 +18,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/mpo/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
+            <state relative-caret-position="698">
               <caret line="75" column="105" selection-start-line="75" selection-start-column="105" selection-end-line="75" selection-end-column="105" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -161,9 +158,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="-8" width="1936" height="1066" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14818764" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14818764" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -173,7 +169,7 @@
       <window_info anchor="bottom" id="Messages" weight="0.3290461" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3290461" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3290461" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -211,7 +207,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/mpo/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
+        <state relative-caret-position="698">
           <caret line="75" column="105" selection-start-line="75" selection-start-column="105" selection-end-line="75" selection-end-column="105" />
           <folding>
             <element signature="imports" expanded="true" />
