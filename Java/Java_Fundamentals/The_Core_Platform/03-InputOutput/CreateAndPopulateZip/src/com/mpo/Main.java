@@ -3,10 +3,7 @@ package com.mpo;
 import java.io.IOException;
 import java.net.URI;
 import java.net.URISyntaxException;
-import java.nio.file.FileSystem;
-import java.nio.file.FileSystems;
-import java.nio.file.Path;
-import java.nio.file.Paths;
+import java.nio.file.*;
 import java.util.HashMap;
 import java.util.Map;
 
@@ -22,7 +19,7 @@ public class Main {
         };
 
 	    try(FileSystem zipFs = openZip(Paths.get("myData.zip"))) {
-
+            copyToZip(zipFs);
         } catch (Exception e) {
 	        System.out.println(e.getClass().getSimpleName() + " - " + e.getMessage());
         }
@@ -39,7 +36,11 @@ public class Main {
     }
 
     private static void copyToZip(FileSystem zipFs) throws IOException {
+        Path sourceFile = Paths.get("file1.txt");
+        //Path sourceFile = FileySystems.getDefualt().getPath("file1.txt");
+        Path destFile = zipFs.getPath("/file1Copied.txt");
 
+        Files.copy(sourceFile, destFile, StandardCopyOption.REPLACE_EXISTING);
     }
 
     private static void writeToFileInZip1(FileSystem zipFs, String[] data) throws IOException {
